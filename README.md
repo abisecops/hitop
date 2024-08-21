@@ -62,6 +62,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 
-- Inspired by `htop`
+- Inspired by [htop](https://htop.dev/)
 - Built using Flask
 
