@@ -1,6 +1,7 @@
 # Hitop
 
 Hitop is a simple web application that displays system process information, similar to `htop`, directly in your web browser. It's built with Flask and can be used on any Linux server, cloud environment, or localhost.
+![image](https://github.com/user-attachments/assets/d8e01345-b975-4e2f-bb18-22b258ea739e)
 
 ## Features
 
