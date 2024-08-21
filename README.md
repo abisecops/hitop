@@ -56,10 +56,6 @@ Follow these steps to get Hitop up and running:
 
 Contributions are welcome! Open issues or submit pull requests to help improve Hitop.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by [htop](https://htop.dev/)
